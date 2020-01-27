@@ -1,6 +1,6 @@
 # CSC120 Class Assignments
 
-A repository containing multiple small projects from my first programming class, Programming and Problem Solving I at the University of Mount Union.
+A repository containing multiple small projects from my first programming class, Programming and Problem Solving I, at the University of Mount Union.
 
 Some code is supplied by Dr. Blase Cindric and modified by Alec Barker.
 
