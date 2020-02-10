@@ -1,4 +1,4 @@
-# CSC120 Class Assignments
+# CSC120: Programming and Problem Solving I
 
 A repository containing multiple small projects from my first programming class, Programming and Problem Solving I, at the University of Mount Union that is taught by Dr. Blase Cindric.
 
